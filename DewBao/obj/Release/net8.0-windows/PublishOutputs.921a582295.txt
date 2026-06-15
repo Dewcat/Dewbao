@@ -1,0 +1,14 @@
+E:\PythonWorkspace\Dewbao\DewBao\bin\ReleasePublish\DewBao.exe
+E:\PythonWorkspace\Dewbao\DewBao\bin\ReleasePublish\runtimes\win-x86\native\WebView2Loader.dll
+E:\PythonWorkspace\Dewbao\DewBao\bin\ReleasePublish\runtimes\win-x64\native\WebView2Loader.dll
+E:\PythonWorkspace\Dewbao\DewBao\bin\ReleasePublish\runtimes\win-arm64\native\WebView2Loader.dll
+E:\PythonWorkspace\Dewbao\DewBao\bin\ReleasePublish\DewBao.dll
+E:\PythonWorkspace\Dewbao\DewBao\bin\ReleasePublish\DewBao.deps.json
+E:\PythonWorkspace\Dewbao\DewBao\bin\ReleasePublish\DewBao.runtimeconfig.json
+E:\PythonWorkspace\Dewbao\DewBao\bin\ReleasePublish\DewBao.pdb
+E:\PythonWorkspace\Dewbao\DewBao\bin\ReleasePublish\Microsoft.Web.WebView2.Core.dll
+E:\PythonWorkspace\Dewbao\DewBao\bin\ReleasePublish\Microsoft.Web.WebView2.WinForms.dll
+E:\PythonWorkspace\Dewbao\DewBao\bin\ReleasePublish\Microsoft.Web.WebView2.Wpf.dll
+E:\PythonWorkspace\Dewbao\DewBao\bin\ReleasePublish\Microsoft.Web.WebView2.Core.xml
+E:\PythonWorkspace\Dewbao\DewBao\bin\ReleasePublish\Microsoft.Web.WebView2.WinForms.xml
+E:\PythonWorkspace\Dewbao\DewBao\bin\ReleasePublish\Microsoft.Web.WebView2.Wpf.xml
