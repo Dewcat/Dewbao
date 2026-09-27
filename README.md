@@ -76,7 +76,7 @@ dotnet build .\Dewbao.sln -c Release
 | 开发验证 | `DewBao/bin/Debug/net8.0-windows` |
 | 稳定版本 | `DewBao/bin/Release/net8.0-windows` |
 
-分发时从当前稳定的 Release 目录复制完整运行文件。根目录 `artifacts` 不作为当前版本来源。项目工作约定见 [AGENTS.md](AGENTS.md)。
+分发时从当前稳定的 Release 目录复制完整运行文件。根目录 `artifacts` 不作为当前版本来源。
 
 ## 配置与缓存
 
