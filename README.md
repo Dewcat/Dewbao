@@ -1,4 +1,6 @@
-# DewBao
+<h1 align="center">DewBao</h1>
+
+<h3 align="center">真正是您家庭的一员</h3>
 
 一个基于 **C# / .NET 8 / Windows Forms / WebView2** 的 Windows 桌面悬浮播放器，默认打开哔哩哔哩。通过置顶窗口、透明度调节和全局快捷键，在使用其他应用时控制网页视频。
 
